@@ -39,12 +39,7 @@ module.exports = {
       id: 3,
       name: 'Italian',
       level: 'Intermediate',
-    },
-    {
-      id: 4,
-      name: 'French',
-      level: 'Intermediate',
-    },
+    }
   ],
   hobbies: ['family', 'outdoors', 'read', 'soccer', 'cars'],
   links: {
