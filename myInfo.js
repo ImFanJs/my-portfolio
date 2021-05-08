@@ -45,7 +45,7 @@ module.exports = {
       level: 'Basic'
     }
   ],
-  hobbies: ['family', 'outdoors', 'read', 'soccer', 'cars'],
+  hobbies: ['family', 'outdoors', 'read', 'soccer', 'cars', 'tech'],
   links: {
     linkedin: {
       site: 'Linkedin',
