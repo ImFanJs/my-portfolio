@@ -42,7 +42,7 @@ module.exports = {
     }, {
       id: 4,
       name: 'French',
-      level: 'Basic'
+      level: 'Intermediate'
     }
   ],
   hobbies: ['family', 'outdoors', 'read', 'soccer', 'cars', 'tech'],
