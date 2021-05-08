@@ -39,6 +39,10 @@ module.exports = {
       id: 3,
       name: 'Italian',
       level: 'Intermediate',
+    }, {
+      id: 4,
+      name: 'French',
+      level: 'Basic'
     }
   ],
   hobbies: ['family', 'outdoors', 'read', 'soccer', 'cars'],
