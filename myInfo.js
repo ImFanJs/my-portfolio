@@ -3,7 +3,7 @@ module.exports = {
   lastName: 'Castaneda',
   title: 'Full Stack Developer',
   age: 34,
-  bio: `I am a Javascript Fullstack Developer, with an 9 years web development experience. 
+  bio: `I am a Javascript Fullstack Developer, with 9 years web development experience. 
     Looking for a place that offers new challenges and good vibes where I can implement my knowledge in and learn more to improve myself.`,
   company: 'Digital On Us',
   skills: [
